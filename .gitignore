@@ -27,3 +27,4 @@ htmlcov/
 # Системные файлы
 .DS_Store
 Thumbs.db 
+.python-version
